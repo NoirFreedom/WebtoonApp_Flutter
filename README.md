@@ -21,9 +21,9 @@
 
 
 <p float="left">
-  <img src="assets/images/webtoon_select_screen.png" alt="웹툰 앱 클론 메인 화면" width="250">
-  <img src="assets/images/webtoon_series_screen.png" alt="웹툰 앱 클론 메인 화면" width="250">
-  <img src="assets/images/webtoon_screen.png" alt="웹툰 앱 클론 메인 화면" width="254">
+  <img src="webtoonApp/assets/images/webtoon_select_screen.png" alt="웹툰 앱 클론 메인 화면" width="250">
+  <img src="webtoonApp/assets/images/webtoon_series_screen.png" alt="웹툰 앱 클론 메인 화면" width="250">
+  <img src="webtoonApp/assets/images/webtoon_screen.png" alt="웹툰 앱 클론 메인 화면" width="254">
 </p>
 
 
